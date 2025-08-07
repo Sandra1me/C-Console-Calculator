@@ -1,4 +1,12 @@
-/*Simple calculator with support for basic operations, trigonometric functions, and factorial*/
+/*
+    Simple Calculator
+    ----------------------
+    Simple calculator with support for basic operations, trigonometric functions, and factorial.
+
+    Author: [Sandra Martin Elias]
+    Date: [2025/07/29]
+*/
+
 #include<stdio.h>
 #include<math.h>
 
@@ -154,4 +162,5 @@ float ask_number(char var) // Function to ask for a number, ensuring valid input
     }
     
     return a;
+
 }
