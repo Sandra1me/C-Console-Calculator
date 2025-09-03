@@ -17,14 +17,14 @@ This is a simple console-based calculator written in C. It started as a basic ex
 
 Use `gcc` to compile the program:
 
-```
+```c
 gcc calculator.c -o calculator -lm
 ```
 
 ## Usage
 Run the program from the terminal:
 
-```
+```c
 ./calculator
 ```
 
