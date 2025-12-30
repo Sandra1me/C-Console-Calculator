@@ -1,4 +1,4 @@
-# C Console Calculator
+# Console Calculator (C)
 
 This is a simple console-based calculator written in C. It started as a basic exercise to practice control structures, input/output, and error handling. Over time, it evolved into a more complete tool with support for powers, roots, trigonometric functions, factorials, and a history of recent results. It also lets you reuse the previous result in new operations.
 
